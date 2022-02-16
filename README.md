@@ -1,6 +1,6 @@
 # MOTZ (Marching-Of-The-Zeros)
 
-This repository implements the algorithm `MOTZ` and `MOTZ_flip` developed in 
+This repository implements the algorithms `MOTZ` and `MOTZ_flip` developed in 
 
 M. Bernkopf, S. Sauter, C. Torres, A. Veit. Solvability of Discrete Helmholtz Equations. To appear in IMA Journal of Numerical Analysis.
 
